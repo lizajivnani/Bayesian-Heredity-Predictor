@@ -30,5 +30,5 @@ Additional Information:
 The project uses a simplified model of genetic inheritance and trait expression.
 Probabilities are based on the hearing impairment version of the GJB2 gene but can be adapted for other genes and traits.
 
-Acknowledgments
-This project is part of Harvard University CS50's Introduction to Artificial Intelligence with Python, ©2024 Harvard University.
+Acknowledgments:
+This project was implemented as part of the coursework for Harvard University's CS50 Introduction to Artificial Intelligence with Python.
