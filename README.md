@@ -1,3 +1,5 @@
+<h1> Baysian GJB2 gene heredity predictor </h1>
+
 The project focuses on the GJB2 gene, mutations of which are a leading cause of hearing impairment in newborns. The AI uses a Bayesian Network to model the relationships between genes, traits, and family members, making inferences about the probability of individuals having certain genes or traits.
 
 
